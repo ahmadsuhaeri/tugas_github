@@ -15,10 +15,10 @@ a {
 }
 .myBG {
   height: 100vh;
-  background: url("../assets/images/bg/ID-id-20220523-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  background: url("../assets/images/bg/bikini2.jpg");
 }
 .htmlAll {
-  background-color: #f6ddb9;
+  background-color: #005f4b;
 }
 .intro {
   height: 300px;
@@ -32,14 +32,14 @@ a {
   font-size: 3rem;
   font-weight: 800;
   line-height: 1;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px rgb(104, 11, 11);
   letter-spacing: 3px;
   color: white;
 }
 
 .trending {
   height: auto;
-  background: url("../assets/images/bg/ID-id-20220523-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  background: url("../assets/images/bg/nickelodeon2.jpg");
 }
 .movieImage {
   height: auto;
